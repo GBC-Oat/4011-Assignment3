@@ -1,0 +1,31 @@
+{
+  "tests": [
+    {
+      "name": "numeric_derivation_test.py",
+      "run": "pytest numeric_derivation_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "rmse_test.py",
+      "run": "pytest rmse_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "tensor_multiplication_test.py",
+      "run": "pytest tensor_multiplication_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 3
+    }
+  ]
+}
